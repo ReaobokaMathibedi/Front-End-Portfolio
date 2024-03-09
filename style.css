@@ -508,7 +508,6 @@ noscript {
   flex-wrap: wrap;
 }
 
-#info-para,
 .about-info p {
   font-weight: 400;
   font-size: 2rem;
@@ -599,13 +598,6 @@ noscript {
     -webkit-transform: scale3d(0.95, 1.05, 1);
     transform: scale3d(0.95, 1.05, 1);
   }
-}
-
-#info-para {
-  width: 75%;
-  padding-top: 30px;
-  color: var(--color-ddd-color);
-  line-height: 20px;
 }
 
 .contact-btn-div {
@@ -1634,7 +1626,6 @@ footer {
     font-size: 5.5rem;
   }
 
-  #info-para,
   .language-name {
     width: 100%;
   }
