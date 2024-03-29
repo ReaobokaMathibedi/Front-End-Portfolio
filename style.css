@@ -394,7 +394,6 @@ noscript {
   flex-direction: column;
   width: 60%;
   height: 90%;
-  margin-top: 10%;
   align-items: flex-start;
   justify-content: center;
 }
@@ -985,7 +984,7 @@ footer {
   display: flex;
   height: fit-content;
   width: fit-content;
-  }
+}
 
 i {
   justify-content: space-evenly;
